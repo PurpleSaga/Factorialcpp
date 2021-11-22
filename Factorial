@@ -1,0 +1,15 @@
+#include<iostream.h>
+#include<conio.h>
+void main()
+{
+int n,i,a=1;
+clrscr();
+cout<<"enter a number";
+cin>>n;
+for(i=n;i>=;i--)
+ {
+ a=a*i;
+ }
+cout<<"the factorial is "<<a; 
+getch();
+}
